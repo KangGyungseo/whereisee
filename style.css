@@ -99,6 +99,7 @@ p {
 
 .inbody{
 	background-color: grey;
+	align-items: center;
 
 }
 
@@ -127,7 +128,7 @@ a {
 	.me {
 		border-radius: 200px;
 		top: 150px;
-		left: 60px;
+		left: 70px;
 		width: 200px;
 		height: 200px;
 		border-radius: 100px;
@@ -137,7 +138,7 @@ a {
 
 	.design {
 		top: 400px;
-		left: 60px;
+		left: 70px;
 		width: 200px;
 		height: 200px;
 		border-radius: 100px;
@@ -147,6 +148,7 @@ a {
 
 	.inbody {
 		background-color: white;
+		align-items: center;
 	}
 
 	article{
